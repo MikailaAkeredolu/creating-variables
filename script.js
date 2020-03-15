@@ -1,6 +1,8 @@
 
 // initialize the content of the text editor to some Javascript
-$("#editor").text(`//Type your code here`);
+$("#editor").text(`let box = 'comic books;'\n console.log(box)`);
+  // initialize the content of the text editor to some Javascript
+  // $("#editor").text(`function echo(m) {\n\treturn m;\n}\nconsole.log(echo("Hello World"));`);
 
 // initialize the editor environment using the ace library
 var editor = ace.edit("editor");
