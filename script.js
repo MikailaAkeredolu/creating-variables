@@ -1,6 +1,6 @@
 
 // initialize the content of the text editor to some Javascript
-$("#editor").text(`let box = 'valentine day cards'\nconsole.log(box);`);
+$("#editor").text(`let box = 'valentine day cards'\nconsole.log(box);\n let = is the keyword we use to create variables \n box is the name of the variable\n \\To do: Create a variable to store your name and print it to the console`);
   // initialize the content of the text editor to some Javascript
 //$("#editor").text(`function echo(m) {\n\treturn m;\n}\nconsole.log(echo("Hello World"));`);
 
