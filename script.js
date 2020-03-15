@@ -1,6 +1,6 @@
 
 // initialize the content of the text editor to some Javascript
-$("#editor").text(`let box = 'valentine day cards'\nconsole.log(box);\n\n\n let luckyNumber = 7 \nconsole.log(luckyNumber);`);
+$("#editor").text(`let box = 'valentine day cards';\nconsole.log(box);\n\n\n let luckyNumber = 7; \nconsole.log(luckyNumber);`);
   // initialize the content of the text editor to some Javascript
 //$("#editor").text(`function echo(m) {\n\treturn m;\n}\nconsole.log(echo("Hello World"));`);
 
