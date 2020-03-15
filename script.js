@@ -1,6 +1,6 @@
 
 // initialize the content of the text editor to some Javascript
-$("#editor").text(`\\ your code goes here`);
+$("#editor").text(`    `);
   // initialize the content of the text editor to some Javascript
 //$("#editor").text(`function echo(m) {\n\treturn m;\n}\nconsole.log(echo("Hello World"));`);
 
